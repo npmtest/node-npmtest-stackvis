@@ -116,7 +116,7 @@
 <tspan x="10" y="1818">  │ │ │ ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1834">  │ │ │ ├── jsbn@0.1.1 </tspan>
 <tspan x="10" y="1850">  │ │ │ └── tweetnacl@0.14.5 </tspan>
-<tspan x="10" y="1866">  │ │ ├─┬ sshpk-agent@1.5.0 </tspan>
+<tspan x="10" y="1866">  │ │ ├─┬ sshpk-agent@1.6.0 </tspan>
 <tspan x="10" y="1882">  │ │ │ ├─┬ mooremachine@2.1.0 </tspan>
 <tspan x="10" y="1898">  │ │ │ │ ├── assert-plus@0.2.0 </tspan>
 <tspan x="10" y="1914">  │ │ │ │ └── dtrace-provider@0.8.1 </tspan>
