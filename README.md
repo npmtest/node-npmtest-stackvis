@@ -1,4 +1,7 @@
-# test coverage for  [stackvis (v0.4.0)](https://github.com/davepacheco/node-stackvis)  [![npm package](https://img.shields.io/npm/v/npmtest-stackvis.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stackvis) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stackvis.svg)](https://travis-ci.org/npmtest/node-npmtest-stackvis)
+# npmtest-stackvis
+
+#### basic test coverage for  [stackvis (v0.4.0)](https://github.com/davepacheco/node-stackvis)  [![npm package](https://img.shields.io/npm/v/npmtest-stackvis.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stackvis) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stackvis.svg)](https://travis-ci.org/npmtest/node-npmtest-stackvis)
+
 #### stack visualization tools
 
 [![NPM](https://nodei.co/npm/stackvis.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stackvis)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-stackvis/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-stackvis/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-stackvis/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-stackvis/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stackvis/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stackvis/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-stackvis/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-stackvis/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-stackvis/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-stackvis/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-stackvis/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-stackvis/build/coverage.html/index.html)
 
